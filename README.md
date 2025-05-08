@@ -1,3 +1,26 @@
+#Talking Note frontend
+
+├── node_modules/
+├── public/
+│   └── (index.html, favicon.ico)
+└── src/
+    ├── components/
+    │   ├── NoteForm.js
+    │   ├── NoteList.js
+    │   └── SearchBar.js
+    ├── App.css
+    ├── App.js
+    ├── index.css
+    ├── index.js
+    ├── reportWebVitals.js
+    ├── .gitignore
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
